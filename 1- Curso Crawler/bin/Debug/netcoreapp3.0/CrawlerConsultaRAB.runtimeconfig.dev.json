@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alunoces\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alunoces\\.nuget\\packages"
+    ]
+  }
+}
